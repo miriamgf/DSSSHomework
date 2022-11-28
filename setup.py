@@ -8,6 +8,6 @@ setup(
     author_email='miriam.gf16@gmail.com',
     description='Example repo',
     packages=find_packages(),    
-    install_requires=['numpy >= 1.11.1', 'matplotlib >= 1.5.1', 'turtle==3.11.0' ],
+    install_requires=['numpy >= 1.11.1', 'matplotlib >= 1.5.1', 'turtle==0.0.1' ],
 )
 
